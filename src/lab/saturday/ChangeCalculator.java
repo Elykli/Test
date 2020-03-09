@@ -32,7 +32,7 @@ public class ChangeCalculator {
 		System.out.println("The change is: ");
 		change = sc.nextInt();
 		
-		
+		System.out.println(" Test");
 		
 
 	}
